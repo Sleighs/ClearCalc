@@ -1,0 +1,55 @@
+body {
+  background-color: #1E392A;
+}
+.calc {
+  margin: auto;
+  width: 400px;
+  padding-top: 2%; 
+
+}
+
+button {
+  width: 75px;
+  height: 75px;
+  font-size: 24px;
+  color: #18121E;
+  font-family: roboto;
+    border-radius: 5px;
+  margin: 0.1%;
+}
+#userinput {
+  font-size: 40px;
+  float: right;
+  width: 301px;
+  color: white;
+  font-family: roboto;
+}
+#history{
+  font-size: 25px;
+  width: 300px;
+  padding: 2%;
+  color: white;
+  font-family: roboto;
+}
+#window {
+  background-color: #1E392A;
+  width: 312px;
+  height: 170px;
+}
+#buttons {
+  width: 355px;
+
+}
+
+.num {
+  background-color: #F8EEE7;
+}
+
+.op {
+  background-color: #3CC47C;
+}
+
+.zero {
+  width: 154px;
+  background-color: white;
+}
